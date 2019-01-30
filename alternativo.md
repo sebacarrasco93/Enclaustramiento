@@ -1,11 +1,32 @@
 ## Proyecto alternativo para escribir palabras (sin PC)
 
+### ¿Para quién está dirigido?
+
+Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer las tres cosas:
+
+- Escuchar
+- Ver
+- Responder "Sí" y "No", con pestañeos u otro gesto
 
 ### Introducción
 
-Ponerse en el lugar de la persona, y empezar a preguntarle letra por letra (de la A a la Z), son demasiadas preguntas (suponiendo respuestas de "Sí" y "No"), y equivocarse podría suponer empezar todo de nuevo. Por ejemplo, para elegir la Z, con el método tradicional del abecedaraio, habría que hacer un total de 27 preguntas. Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja como la "Z"
+Para saber qué quiere decir una persona con el Síndrome de Enclaustramiento, normalmente surge la idea de preguntarle letra por letra (de la A a la Z).
 
-Sistema tradicional: H
+Lamentablemente, resulta tedioso tanto para el que pregunta letra por letra como para el que responde, sabiendo que las letras del final (W, X, Y, Z) tomarían demasiadas preguntas (más de 23 preguntas).
+Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja como la "Z"
+
+
+### Comparaciones
+
+#### Letra "H"
+
+Tradicional: 8 preguntas
+Nuestro método: 6 preguntas
+
+#### Letra "Z"
+
+Tradicional: 27 preguntas
+Nuestro método: 8 preguntas
 
 
 ### ¿Cómo funciona?
