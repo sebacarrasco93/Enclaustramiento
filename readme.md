@@ -29,7 +29,8 @@ En general, es un conjunto de sistemas creados por terceros, que al hacerlos con
 
 ## Proceso de implementación
 
-![Espera para primera prueba en Hospital](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20190109_110934.jpg)
+![Espera para primera prueba en Hospital Regional de Rancagua](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20190109_110934.jpg)
+Espera para la primera prueba en el Hospital Regional de Rancagua
 
 ## Agradecimientos
 
