@@ -13,7 +13,8 @@ Este método está diseñado para personas con el Síndrome de Enclaustramiento 
 Para saber qué quiere decir una persona con el Síndrome de Enclaustramiento, normalmente surge la idea de preguntarle letra por letra (de la A a la Z).
 
 Lamentablemente, resulta tedioso tanto para el que pregunta letra por letra como para el que responde, sabiendo que las letras del final (W, X, Y, Z) tomarían demasiadas preguntas (más de 23 preguntas).
-Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja como la "Z"
+
+Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja como la "Z". Comparativamente, la cantidad máxima de preguntas para escribir una letra más lejana es de sólo 8 ~ 9 preguntas.
 
 
 ### Comparaciones
@@ -33,19 +34,27 @@ Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja c
 
 Si quisiera escribir, por ejemplo, la letra "H", las preguntas serían:
 
+```
 ¿Está en esta tarjeta? (mostrando la tarjeta 1)
+```
 
 (El paciente respondería "Sí")
 
+```
 ¿Está en el 1?
+```
 
 (El paciente respondería "No")
 
+```
 ¿Está en el 2?
+```
 
 (El paciente respondería "Sí")
 
+```
 ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (sí)
+```
 
 ### Traza (abecedario completo): "Hola"
 
@@ -72,7 +81,7 @@ Preguntas totales con nuestro método: 6 + 9 + 8 + 2 = 25
 ### Traza (abecedario completo): Letra "Z"
 
 ```
-O: ¿A? (no), ¿B? (no), ¿C? (no), ¿D? (no), ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (no), ¿I? (no), ¿J? (no), ¿K? (no), ¿L? (no), ¿M? (no), ¿Ñ? (no), ¿O? (no), ¿P? (no), ¿Q? (no), ¿R? (no), ¿S? (no), ¿T? (no), ¿U? (no), ¿V? (no), ¿W? (no), ¿X? (no), ¿Y? (no), ¿Z? (sí) - 27 preguntas -
+Z: ¿A? (no), ¿B? (no), ¿C? (no), ¿D? (no), ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (no), ¿I? (no), ¿J? (no), ¿K? (no), ¿L? (no), ¿M? (no), ¿Ñ? (no), ¿O? (no), ¿P? (no), ¿Q? (no), ¿R? (no), ¿S? (no), ¿T? (no), ¿U? (no), ¿V? (no), ¿W? (no), ¿X? (no), ¿Y? (no), ¿Z? (sí) - 27 preguntas -
 ```
 
 Preguntas totales con abcedario completo: 27
