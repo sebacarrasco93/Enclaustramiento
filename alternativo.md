@@ -35,25 +35,19 @@ Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja c
 Si quisiera escribir, por ejemplo, la letra "H", las preguntas serían:
 
 ```
-¿Está en esta tarjeta? (mostrando la tarjeta 1)
-```
+- ¿Está en esta tarjeta? (mostrando la tarjeta 1)
 
-(El paciente respondería "Sí")
+(El paciente respondería "sí")
 
-```
-¿Está en el 1?
-```
+- ¿Está en el 1?
 
-(El paciente respondería "No")
+(El paciente respondería "no")
 
-```
-¿Está en el 2?
-```
+- ¿Está en el 2?
 
-(El paciente respondería "Sí")
+(El paciente respondería "sí")
+- ¿E? (no), - ¿F? (no), - ¿G? (no), - ¿H? (sí)
 
-```
-¿E? (no), ¿F? (no), ¿G? (no), ¿H? (sí)
 ```
 
 ### Traza (abecedario completo): "Hola"
