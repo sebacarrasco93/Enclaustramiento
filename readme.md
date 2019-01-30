@@ -2,7 +2,7 @@
 
 ### ¿Para quién está dirigido?
 
-Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer las tres cosas:
+Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer todo lo siguiente:
 
 - Escuchar (para darle las instrucciones de cómo usarlo)
 - Ver y controlar al menos un ojo al 100% hacia arriba, abajo, izquierda y derecha (para usar el sistema)
@@ -11,7 +11,7 @@ Este método está diseñado para personas con el Síndrome de Enclaustramiento 
 
 Si actualmente usas el método de abecedario completo, y quieres mejorarlo mientras juntas los materiales, te recomendamos el [método alternativo de abecedario](https://github.com/sebacarrasco93/enclaustramiento/blob/master/alternativo.md), que ha resultado ser muy útil y simple de aprender y enseñar.
 
-## Motivación (Historia el Proyecto)
+## Motivación (Historia del Proyecto)
 
 Todo comenzó cuando mi gran amigo de infancia, Ignacio Riveros Carrasco ("Nacho"), de 20 años, sufrió una hemorragia cerebral, quedando con el Síndrome de Enclaustramiento, imposibilitado (por ahora) de mover el resto de su cuerpo.
 
@@ -25,7 +25,7 @@ Si bien al principio costó un poco encontrar todos los ajustes, después de cas
 
 ## Descripción
 
-En general, es un conjunto de sistemas creados por terceros, que al hacerlos converger, ayudan a que las personas en esta condición, puedan recuperar su autonomía. Escribir lo que necesitas, sólo mirándolo ya es increíble y casi de ciencia ficción.
+En general, es un conjunto de sistemas creados por terceros, que al hacerlos converger, ayudan a que las personas en esta condición, puedan recuperar su autonomía. Escribir lo que quieres decir, sólo mirándolo es increíble, quizá impensado como algo real, para quiénes viven en estas condiciones.
 
 
 ## Agradecimientos
@@ -38,4 +38,4 @@ En general, es un conjunto de sistemas creados por terceros, que al hacerlos con
 - La familia completa de Nacho: En especial a sus abuelitos, "Tita" y "Tato", Natalia (su mamá), Pedro Simón y Victoria (sus hermanos)
 - Personal del Hospital, que nos soportó ir con todos los equipos a nuestras pruebas
 - Almendra González Poblete y Carlos Cubillos Aravena (mis hermanos) que se ofrecieron como candidatos y me tuvieron paciencia para ayudaron a encontrar las nociones de los ángulos
-- El más especial a Nacho ¡por sus ganas de probarlo!
+- El más especial a Nacho ¡por sus ganas de probarlo!, y por hacerme bromas cuando estábamos en fase de pruebas

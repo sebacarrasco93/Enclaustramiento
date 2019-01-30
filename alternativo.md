@@ -2,7 +2,7 @@
 
 ### ¿Para quién está dirigido?
 
-Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer las tres cosas:
+Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer todo lo siguiente:
 
 - Escuchar
 - Ver
