@@ -79,15 +79,6 @@ Total nuestro método: 8 preguntas
 
 Si tienes un conocido con esta condición, y no tiene un sistema de comunicación, ¡siéntete libre de descargar el PDF e imprimírselo!
 
-
-## Agradecimientos
-
-- Carolina Garrido Bravo (mi novia) por amanecerse conmigo escribiendo muchos Post-it comparando distintos métodos de distribución
-- Valentina (prima de Nacho): Por el entusiasmo y motivación para hacerlo (sólo íbamos a dar la idea y nos obligó a participar! Jajaja)
-- Mamá de Valentina, por su expertiz en el rubro, y por hacer más profesional el proceso de fabricación
-- Diseñador gráfico (aquí su nombre!) que lo hizo más lindo
-- El más especial a Nacho, ¡por demostrar que funcionaba!
-
 ## Proceso de fabricación
 
 ![Primer prototipo](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_034201.jpg)
@@ -97,3 +88,11 @@ Si tienes un conocido con esta condición, y no tiene un sistema de comunicació
 ![Otros intentos](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_135525.jpg)
 
 ![Resultado final](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_154921.jpg)
+
+## Agradecimientos
+
+- Carolina Garrido Bravo (mi novia) por amanecerse conmigo escribiendo muchos Post-it comparando distintos métodos de distribución
+- Valentina (prima de Nacho): Por el entusiasmo y motivación para hacerlo (sólo íbamos a dar la idea y nos obligó a participar! Jajaja)
+- Mamá de Valentina, por su expertiz en el rubro, y por hacer más profesional el proceso de fabricación
+- Diseñador gráfico (aquí su nombre!) que lo hizo más lindo
+- El más especial a Nacho, ¡por demostrar que funcionaba!

@@ -27,6 +27,9 @@ Si bien al principio costó un poco encontrar todos los ajustes, después de cas
 
 En general, es un conjunto de sistemas creados por terceros, que al hacerlos converger, ayudan a que las personas en esta condición, puedan recuperar su autonomía. Escribir lo que quieres decir, sólo mirándolo es increíble, quizá impensado como algo real, para quiénes viven en estas condiciones.
 
+## Proceso de implementación
+
+![Espera para primera prueba en Hospital](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20190109_110934.jpg)
 
 ## Agradecimientos
 
@@ -36,6 +39,6 @@ En general, es un conjunto de sistemas creados por terceros, que al hacerlos con
 - Luis González Carrasco (mi padre), por su buena voluntad para comprar cosas, y ofrecer lo que necesitáramos
 - Alejandro Ibaceta Romero y toda su familia: Por su gran voluntad, y dedicación en la fabricación del soporte, y aceptarme tanto cambio que surgía en el camino, si no, sólo quedaría en la idea
 - La familia completa de Nacho: En especial a sus abuelitos, "Tita" y "Tato", Natalia (su mamá), Pedro Simón y Victoria (sus hermanos)
-- Personal del Hospital, que nos soportó ir con todos los equipos a nuestras pruebas
+- Personal del Hospital Regional de Rancagua, que nos soportó ir con todos los equipos a nuestras pruebas
 - Almendra González Poblete y Carlos Cubillos Aravena (mis hermanos) que se ofrecieron como candidatos y me tuvieron paciencia para ayudaron a encontrar las nociones de los ángulos
 - El más especial a Nacho ¡por sus ganas de probarlo!, y por hacerme bromas cuando estábamos en fase de pruebas
