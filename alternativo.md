@@ -101,10 +101,6 @@ Z: ¿Esta tarjeta? (no), ¿5? (no), ¿6? (no), ¿7? (no), ¿8? (sí), ¿X? (no),
 
 Preguntas totales nuestro método: 8
 
-```
-Si tienes un conocido con esta condición, y no tiene un sistema de comunicación, ¡siéntete libre de descargar el PDF e imprimírselo!
-```
-
 ## Proceso de pruebas con otros modelos y fabricación
 
 ![Primer prototipo](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_034201.jpg)
@@ -122,3 +118,13 @@ Si tienes un conocido con esta condición, y no tiene un sistema de comunicació
 - Mamá de Valentina, por su expertiz en el rubro, y por hacer más profesional el proceso de fabricación
 - Diseñador gráfico (aquí su nombre!) que lo hizo más lindo
 - El más especial a Nacho, ¡por demostrar que funcionaba!
+
+### Descarga
+Siéntete libre de descargar el PDF, imprimirlo y redistribuir este método las veces que sean necesarias
+
+### Mejoras
+Si encuentras alguna forma de mejorarlo, o creaste uno distinto y mejor, publícalo aquí, ¡todos te lo agradeceríamos!
+
+## Alternativa: Interfaz de PC (más moderna, más compleja, pero más rápida)
+
+Trabajamos en juntar Hardware y ajustes de Software de terceros para una [Interfaz de PC](https://github.com/sebacarrasco93/enclaustramiento/blob/master/readme.md): Permite a la persona, usar un PC con Windows: Por ahora, la persona con Enclaustramiento puede poner YouTube, Netflix, e incluso, hablar por Telegram.
