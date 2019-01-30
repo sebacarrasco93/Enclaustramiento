@@ -49,33 +49,41 @@ Si quisiera escribir, por ejemplo, la letra "H", las preguntas serían:
 
 ### Traza (abecedario completo): "Hola"
 
+```
 H: ¿A? (no), ¿B? (no), ¿C? (no), ¿D? (no), ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (sí) - 8 preguntas -
-O: ¿A? (no), ¿B? (no), ¿C? (no), ¿D? (no), ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (no), ¿I? (no), ¿J? (no), ¿K? (no), ¿L? (no), ¿M? (no), ¿Ñ? (no), ¿O? (sí) - 15 preguntas -
+O: ¿A? (no), ¿B? (no), ¿C? (no), ¿D? (no), ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (no), ¿I? (no), ¿J? (no), ¿K? (no), ¿L? (no), ¿M? (no), ¿N? (no), ¿Ñ? (no), ¿O? (sí) - 15 preguntas -
 L: ¿A? (no), ¿B? (no), ¿C? (no), ¿D? (no), ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (no), ¿I? (no), ¿J? (no), ¿K? (no), ¿L? (sí) - 12 preguntas -
 A: ¿A? (sí) - 1 pregunta -
+```
 
-Total abecedario completo: 8 + 15 + 12 + 1 = 36 preguntas
+Preguntas totales con abecedario completo: 8 + 15 + 12 + 1 = 36
 
 ### Traza (nuestro método segmentado): "Hola"
 
+```
 H: ¿Esta tarjeta? (sí), ¿1? (no), ¿2? (sí), ¿E? (no), ¿F? (no), ¿H? (sí) - 6 preguntas -
 O: ¿Esta tarjeta? (sí), ¿1? (no), ¿2? (no), ¿3? (no), ¿4? (sí), ¿M? (no), ¿N? (no), ¿Ñ? (no), ¿O? (sí) - 9 preguntas -
 L: ¿Esta tarjeta? (sí), ¿1? (no), ¿2? (no), ¿3? (sí), ¿I? (no), ¿J? (no), ¿K? (no), ¿L? (sí) - 8 preguntas -
 A: ¿Esta tarjeta? (sí), ¿1? (sí) - 2 preguntas -
+```
 
-Total nuestro método: 6 + 9 + 8 + 2 = 25 preguntas
+Preguntas totales con nuestro método: 6 + 9 + 8 + 2 = 25
 
 ### Traza (abecedario completo): Letra "Z"
 
+```
 O: ¿A? (no), ¿B? (no), ¿C? (no), ¿D? (no), ¿E? (no), ¿F? (no), ¿G? (no), ¿H? (no), ¿I? (no), ¿J? (no), ¿K? (no), ¿L? (no), ¿M? (no), ¿Ñ? (no), ¿O? (no), ¿P? (no), ¿Q? (no), ¿R? (no), ¿S? (no), ¿T? (no), ¿U? (no), ¿V? (no), ¿W? (no), ¿X? (no), ¿Y? (no), ¿Z? (sí) - 27 preguntas -
+```
 
-Total abcedario completo: 27 preguntas
+Preguntas totales con abcedario completo: 27
 
 ### Traza (nuestro método segmentado): Letra "Z"
 
+```
 Z: ¿Esta tarjeta? (no), ¿5? (no), ¿6? (no), ¿7? (no), ¿8? (sí), ¿X? (no), ¿Y? (no), ¿Z? (sí) - 8 preguntas -
+```
 
-Total nuestro método: 8 preguntas
+Preguntas totales nuestro método: 8
 
 Si tienes un conocido con esta condición, y no tiene un sistema de comunicación, ¡siéntete libre de descargar el PDF e imprimírselo!
 
