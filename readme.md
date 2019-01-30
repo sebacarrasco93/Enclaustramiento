@@ -1,10 +1,21 @@
 # Interfaz para personas con Síndrome de Enclaustramiento
 
-## Historia del Proyecto
+### ¿Para quién está dirigido?
 
-Todo comenzó cuando mi gran amigo de infancia, Ignacio Riveros Carrasco, en adelante "Nacho", de 20 años, sufrió una hemorragia cerebral, quedando (por ahora) con el Síndrome de Enclaustramiento, en resumen, imposibilitado de mover el resto de su cuerpo
+Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer las tres cosas:
 
-Resultaba frustrante para mi. Estaban pasando los días, y ponerme en su lugar, sintiendo que él no tenía alternativas para comunicarse. Su familia podía ir a verlo a la Unidad de Tratamiento Intensivo (UTI) del Hospital, y para saber si algo pasaba, le hacían preguntas, a lo que él respondía "Sí" y "No", con sus ojos. Cosas tan simples como formar una frase eran prácticamente imposibles
+- Escuchar (para darle las instrucciones de cómo usarlo)
+- Ver y controlar al menos un ojo al 100% hacia arriba, abajo, izquierda y derecha (para usar el sistema)
+
+## Alternativa simple
+
+Si actualmente usas el método de abecedario completo, y quieres mejorarlo mientras juntas los materiales, te recomendamos el [método alternativo de abecedario](https://github.com/sebacarrasco93/enclaustramiento/blob/master/alternativo.md), que ha resultado ser muy útil y simple de aprender y enseñar.
+
+## Motivación (Historia el Proyecto)
+
+Todo comenzó cuando mi gran amigo de infancia, Ignacio Riveros Carrasco ("Nacho"), de 20 años, sufrió una hemorragia cerebral, quedando con el Síndrome de Enclaustramiento, imposibilitado (por ahora) de mover el resto de su cuerpo.
+
+Resultaba frustrante para mi. Estaban pasando los días, y ponerme en su lugar, sintiendo que él no tenía alternativas para comunicarse. Su familia podía ir a verlo a la Unidad de Tratamiento Intensivo (UTI) del Hospital, y para saber si algo pasaba, le hacían preguntas, a lo que él respondía "Sí" y "No", con sus ojos. Cosas tan simples como formar una frase eran prácticamente imposibles.
 
 Por todos estos motivos, empezamos a investigar, y compramos el sensor con envío express (suponíamos que iba a llegar en 3 meses, y llegó en 5 días), ¡y como sorpresa se lo llevamos!
 
@@ -19,7 +30,7 @@ En general, es un conjunto de sistemas creados por terceros, que al hacerlos con
 
 ## Agradecimientos
 
-- Carolina Garrido Bravo (mi novia) por su tiempo, su apoyo incondicional, y sus ganas en que esto resultara
+- Carolina Garrido Bravo (mi novia) por su tiempo, su apoyo incondicional, y sus ganas de que esto resultara (y donar su monitor de trabajo para esto)
 - Valeria Olavarría Manríquez (la Doctora con verdadera vocación), que me aportó con todas las gestiones y facilidades para hacer las pruebas en el Hospital, y Felipe Carreño Solis (esposo de Valeria, por darle mis recados a ella cuando estaba ocupada! Jaja)
 - Karen Poblete Henríquez (mi madre), por apoyarnos con la mesa que sería el soporte
 - Luis González Carrasco (mi padre), por su buena voluntad para comprar cosas, y ofrecer lo que necesitáramos
@@ -27,3 +38,4 @@ En general, es un conjunto de sistemas creados por terceros, que al hacerlos con
 - La familia completa de Nacho: En especial a sus abuelitos, "Tita" y "Tato", Natalia (su mamá), Pedro Simón y Victoria (sus hermanos)
 - Personal del Hospital, que nos soportó ir con todos los equipos a nuestras pruebas
 - Almendra González Poblete y Carlos Cubillos Aravena (mis hermanos) que se ofrecieron como candidatos y me tuvieron paciencia para ayudaron a encontrar las nociones de los ángulos
+- El más especial a Nacho ¡por sus ganas de probarlo!

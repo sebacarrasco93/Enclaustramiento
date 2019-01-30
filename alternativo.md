@@ -1,4 +1,4 @@
-## Proyecto alternativo para escribir palabras (sin PC)
+# Proyecto alternativo para escribir frases (sin PC)
 
 ### ¿Para quién está dirigido?
 
@@ -20,34 +20,32 @@ Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja c
 
 #### Letra "H"
 
-Tradicional: 8 preguntas
-Nuestro método: 6 preguntas
+- [ ] Tradicional: 8 preguntas
+- [x] Nuestro método: 6 preguntas
 
 #### Letra "Z"
 
-Tradicional: 27 preguntas
-Nuestro método: 8 preguntas
+- [ ] Tradicional: 27 preguntas
+- [x] Nuestro método: 8 preguntas
 
 
 ### ¿Cómo funciona?
 
-Si quisiera escribir, por ejemplo, la letra "H":
+Si quisiera escribir, por ejemplo, la letra "H", las preguntas serían:
 
-Las preguntas que habría que hacerle a la persona serían:
-
-¿Está en esta tarjeta? (mostrando la tarjeta 1) - pregunta número 1 -
+¿Está en esta tarjeta? (mostrando la tarjeta 1)
 
 (El paciente respondería "Sí")
 
-¿Está en el 1? - pregunta número 2 -
+¿Está en el 1?
 
 (El paciente respondería "No")
 
-¿Dos? - pregunta número 3 -
+¿Está en el 2?
 
 (El paciente respondería "Sí")
 
-¿E? (no) - pregunta #4 -, ¿F?, (no) - pregunta #5 -, ¿H? - pregunta #6 - (sí)
+¿E? (no), ¿F? (no), ¿G? (no), ¿H? (sí)
 
 ### Traza (abecedario completo): "Hola"
 
@@ -84,7 +82,8 @@ Si tienes un conocido con esta condición, y no tiene un sistema de comunicació
 
 ## Agradecimientos
 
-- Carolina Garrido (mi novia) por amanecerse conmigo escribiendo muchos Post-it comparando distintos métodos de órden
-- Valentina, prima de Nacho
-- Mamá de Valentina
+- Carolina Garrido Bravo (mi novia) por amanecerse conmigo escribiendo muchos Post-it comparando distintos métodos de distribución
+- Valentina (prima de Nacho): Por el entusiasmo y motivación para hacerlo (sólo íbamos a dar la idea y nos obligó a participar! Jajaja)
+- Mamá de Valentina, por su expertiz en el rubro, y por hacer más profesional el proceso de fabricación
 - Diseñador gráfico (aquí su nombre!) que lo hizo más lindo
+- El más especial a Nacho, ¡por demostrar que funcionaba!
