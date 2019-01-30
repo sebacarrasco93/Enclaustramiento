@@ -48,4 +48,4 @@ Espera para la primera prueba en el Hospital Regional de Rancagua
 - La familia completa de Nacho: En especial a sus abuelitos, "Tita" y "Tato", Natalia (su mamá), Pedro Simón y Victoria (sus hermanos)
 - Personal del Hospital Regional de Rancagua, que nos soportó ir con todos los equipos a nuestras pruebas
 - Almendra González Poblete y Carlos Cubillos Aravena (mis hermanos) que se ofrecieron como candidatos y me tuvieron paciencia para ayudaron a encontrar las nociones de los ángulos
-- El más especial a Nacho ¡por sus ganas de probarlo!, y por hacerme bromas cuando estábamos en fase de pruebas
+- El agradecimiento más especial, a Nacho: ¡por sus ganas de probarlo!, y por hacerme tantas bromas cuando estábamos en fase de pruebas
