@@ -2,7 +2,7 @@
 
 ### ¿Para quién está dirigido?
 
-Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer todo lo siguiente:
+Este método está diseñado para personas con el Síndrome de Enclaustramiento que **pueden hacer todo** lo siguiente:
 
 - Escuchar (para darle las instrucciones de cómo usarlo)
 - Ver y controlar al menos un ojo al 100% hacia arriba, abajo, izquierda y derecha (para usar el sistema)
@@ -26,6 +26,12 @@ Si bien al principio costó un poco encontrar todos los ajustes, después de cas
 ## Descripción
 
 En general, es un conjunto de sistemas creados por terceros, que al hacerlos converger, ayudan a que las personas en esta condición, puedan recuperar su autonomía. Escribir lo que quieres decir, sólo mirándolo es increíble, quizá impensado como algo real, para quiénes viven en estas condiciones.
+
+## Requerimientos
+
+- Un PC tipo Laptop / Notebook con Windows (probado con Windows 10, build 1809)
+- Conocimientos medios de informática
+- Monitor 
 
 ## Proceso de implementación
 

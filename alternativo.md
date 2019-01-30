@@ -2,29 +2,42 @@
 
 ### ¿Para quién está dirigido?
 
-Este método está diseñado para personas con el Síndrome de Enclaustramiento que pueden hacer todo lo siguiente:
+Este método está diseñado para personas con el Síndrome de Enclaustramiento que **pueden hacer todo** lo siguiente:
 
-- Escuchar
-- Ver
-- Responder "Sí" y "No", con pestañeos u otro gesto
+- [x] Escuchar
+- [x] Ver
+- [x] Responder "Sí" y "No", con pestañeos u otro gesto
 
 ### Introducción
 
-Para saber qué quiere decir una persona con el Síndrome de Enclaustramiento, normalmente surge la idea de preguntarle letra por letra (de la A a la Z).
+Para saber qué quiere decir una persona con el Síndrome de Enclaustramiento, normalmente surge la idea de deletrearle el abecedario completo, letra por letra (de la A a la Z), y que responda "sí", con algún gesto, para saber cuál quiere escoger.
 
-Lamentablemente, resulta tedioso tanto para el que pregunta letra por letra como para el que responde, sabiendo que las letras del final (W, X, Y, Z) tomarían demasiadas preguntas (más de 23 preguntas).
+Lamentablemente, resulta tedioso tanto para el que pregunta, como para quien responde, sabiendo que las letras del final (W, X, Y, Z) tomarían demasiadas preguntas (más de 23).
 
-Redujimos la cantidad de ellas para escribir una palabra, y una letra compleja como la "Z". Comparativamente, la cantidad máxima de preguntas para escribir una letra más lejana es de sólo 8 ~ 9 preguntas.
+### Ventajas
 
+Redujimos la cantidad de preguntas para elegir una letra, e incluso considerando las más alejadas como la "Z". La cantidad máxima de preguntas para escribir una letra más lejana (O, S, W, Z) se reduce a sólo 8 ~ 9 preguntas. Haciendo que la comunicación sea más grata, y que en el mismo tiempo pueda escribir más palabras.
 
-### Comparaciones
+### Comparaciones (letras complejas)
 
-#### Letra "H"
+#### Letra "H" (medianamente compleja)
 
 - [ ] Tradicional: 8 preguntas
 - [x] Nuestro método: 6 preguntas
 
-#### Letra "Z"
+#### Letra "O" (muy compleja)
+- [ ] Tradicional: 16 preguntas
+- [x] Nuestro método: 9 preguntas
+
+#### Letra "S" (muy compleja)
+- [ ] Tradicional: 20 preguntas
+- [x] Nuestro método: 6 preguntas
+
+#### Letra "W" (muy compleja)
+- [ ] Tradicional: 24 preguntas
+- [x] Nuestro método: 7 preguntas
+
+#### Letra "Z" (muy compleja)
 
 - [ ] Tradicional: 27 preguntas
 - [x] Nuestro método: 8 preguntas
@@ -88,9 +101,11 @@ Z: ¿Esta tarjeta? (no), ¿5? (no), ¿6? (no), ¿7? (no), ¿8? (sí), ¿X? (no),
 
 Preguntas totales nuestro método: 8
 
+```
 Si tienes un conocido con esta condición, y no tiene un sistema de comunicación, ¡siéntete libre de descargar el PDF e imprimírselo!
+```
 
-## Proceso de fabricación
+## Proceso de pruebas con otros modelos y fabricación
 
 ![Primer prototipo](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_034201.jpg)
 
