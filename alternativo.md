@@ -111,14 +111,6 @@ Preguntas totales nuestro método: 8
 
 ![Resultado final](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_154921.jpg)
 
-## Agradecimientos
-
-- Carolina Garrido Bravo (mi novia) por amanecerse conmigo escribiendo muchos Post-it comparando distintos métodos de distribución
-- Valentina (prima de Nacho): Por el entusiasmo y motivación para hacerlo (sólo íbamos a dar la idea y nos obligó a participar! Jajaja)
-- Mamá de Valentina, por su expertiz en el rubro, y por hacer más profesional el proceso de fabricación
-- Diseñador gráfico (aquí su nombre!) que lo hizo más lindo
-- El más especial a Nacho, ¡por demostrar que funcionaba!
-
 ### Descarga
 Siéntete libre de descargar el PDF, imprimirlo y redistribuir este método las veces que sean necesarias
 
@@ -128,3 +120,11 @@ Si encuentras alguna forma de mejorarlo, o creaste uno distinto y mejor, publíc
 ## Alternativa: Interfaz de PC (más moderna, más compleja, pero más rápida)
 
 Trabajamos en juntar Hardware y ajustes de Software de terceros para una [Interfaz de PC](https://github.com/sebacarrasco93/enclaustramiento/blob/master/readme.md): Permite a la persona, usar un PC con Windows: Por ahora, la persona con Enclaustramiento puede poner YouTube, Netflix, e incluso, hablar por Telegram.
+
+## Agradecimientos
+
+- Carolina Garrido Bravo (mi novia) por amanecerse conmigo escribiendo muchos Post-it comparando distintos métodos de distribución
+- Valentina (prima de Nacho): Por el entusiasmo y motivación para hacerlo (sólo íbamos a dar la idea y nos obligó a participar! Jajaja)
+- Mamá de Valentina, por su expertiz en el rubro, y por hacer más profesional el proceso de fabricación
+- Diseñador gráfico (aquí su nombre!) que lo hizo más lindo
+- El más especial a Nacho, ¡por demostrar que funcionaba!
