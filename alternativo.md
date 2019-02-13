@@ -12,7 +12,7 @@ Este método está diseñado para personas con el Síndrome de Enclaustramiento 
 
 Se le conoce con este nombre (en inglés "locked-in syndrome") a la afección que sufren los pacientes que se encuentran "encerrados en su cuerpo", en un estado completamente consciente, pero sin capacidad de mover voluntariamente su cuerpo ni de comunicarse verbalmente. Sin embargo, algunas personas pueden llegar a comunicarse a través de parpadeos y algunos leves movimientos.
 
-![Enlace a Wikipedia: Síndrome de enclaustramiento](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_enclaustramiento)
+[Enlace a Wikipedia: Síndrome de enclaustramiento](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_enclaustramiento)
 
 ### Introducción
 
@@ -118,7 +118,7 @@ Preguntas totales con nuestro método: 8
 ![Resultado final](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_154921.jpg)
 
 ### Descarga
-Siéntete libre de descargar el PDF, imprimirlo y redistribuir este método las veces que sean necesarias
+Siéntete libre de descargar los [PDFs(https://github.com/sebacarrasco93/Enclaustramiento/tree/master/pdf)], imprimirlo y redistribuir este método las veces que sean necesarias
 
 ### Mejoras
 Si encuentras alguna forma de mejorarlo, o creaste uno distinto y mejor, publícalo aquí, ¡todos te lo agradeceríamos!
