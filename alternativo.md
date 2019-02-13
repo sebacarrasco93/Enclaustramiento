@@ -8,9 +8,15 @@ Este método está diseñado para personas con el Síndrome de Enclaustramiento 
 - [x] Ver
 - [x] Responder "Sí" y "No", con pestañeos u otro gesto
 
+### Síndrome de enclaustramiento
+
+Se le conoce con este nombre (en inglés "locked-in syndrome") a la afección que sufren los pacientes que se encuentran "encerrados en su cuerpo", en un estado completamente consciente, pero sin capacidad de mover voluntariamente su cuerpo ni de comunicarse verbalmente. Sin embargo, algunas personas pueden llegar a comunicarse a través de parpadeos y algunos leves movimientos.
+
+![Enlace a Wikipedia: Síndrome de enclaustramiento](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_enclaustramiento)
+
 ### Introducción
 
-Para saber qué quiere decir una persona con el Síndrome de Enclaustramiento, normalmente surge la idea de deletrearle el abecedario completo, letra por letra (de la A a la Z), y que responda "sí", con algún gesto, para saber cuál quiere escoger.
+Para saber qué quiere decir una persona con el Síndrome de enclaustramiento, normalmente surge la idea de deletrearle el abecedario completo, letra por letra (de la A a la Z), y que responda "sí", con algún gesto, para saber cuál quiere escoger.
 
 Lamentablemente, resulta tedioso tanto para el que pregunta, como para quien responde, sabiendo que las letras del final (W, X, Y, Z) tomarían demasiadas preguntas (más de 23).
 
@@ -99,7 +105,7 @@ Preguntas totales con abcedario completo: 27
 Z: ¿Esta tarjeta? (no), ¿5? (no), ¿6? (no), ¿7? (no), ¿8? (sí), ¿X? (no), ¿Y? (no), ¿Z? (sí) - 8 preguntas -
 ```
 
-Preguntas totales nuestro método: 8
+Preguntas totales con nuestro método: 8
 
 ## Proceso de pruebas con otros modelos y fabricación
 
@@ -127,4 +133,4 @@ Trabajamos en juntar Hardware y ajustes de Software de terceros para una [Interf
 - Valentina Rojas Navarro (prima de Nacho): Por el entusiasmo y motivación para hacerlo (sólo íbamos a dar la idea y nos obligó a participar! Jajaja)
 - Jeannette Navarro Riveros (mamá de Valentina), por su expertiz en el rubro, y por hacer más profesional el proceso de fabricación
 - Diseñador gráfico (aquí su nombre!) que lo hizo más lindo
-- El agradecimiento más especial, a Nacho: ¡por demostrar que funcionaba!
+- El agradecimiento más especial, a Nacho: ¡por demostrar que funcionaba!EXRXXXRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRDDx
