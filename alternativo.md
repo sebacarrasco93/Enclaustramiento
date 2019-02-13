@@ -118,7 +118,7 @@ Preguntas totales con nuestro método: 8
 ![Resultado final](https://raw.githubusercontent.com/sebacarrasco93/enclaustramiento/master/fotos/20181231_154921.jpg)
 
 ### Descarga
-Siéntete libre de descargar los [PDFs(https://github.com/sebacarrasco93/Enclaustramiento/tree/master/pdf)], imprimirlo y redistribuir este método las veces que sean necesarias
+Siéntete libre de descargar los [PDFs](https://github.com/sebacarrasco93/Enclaustramiento/tree/master/pdf), imprimirlo y redistribuir este método las veces que sean necesarias
 
 ### Mejoras
 Si encuentras alguna forma de mejorarlo, o creaste uno distinto y mejor, publícalo aquí, ¡todos te lo agradeceríamos!
